@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_full_screen">FullScreen</string>
+    <string name="title_activity_full_image">FullImageActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
