@@ -28,8 +28,8 @@ import uz.androidmk.gallery.ui.main.MainActivity;
 /**
  * This class is intended to show all recieved images in grid format
  * spanning 3 columns
- * 1. swipe to refresh make a network request
- * 2. connection checker
+ *
+ * 
  *
  */
 public class FeedFragment extends Fragment implements FeedMvp.view{
